@@ -1,0 +1,2432 @@
+[
+  {
+    "id": 1,
+    "name": "المصطلحات الطبية للجهاز الهضمي",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the medical term for excessive salivation?",
+        "options": {
+          "A": "Glossitis",
+          "B": "Ptyalism",
+          "C": "Stomatitis",
+          "D": "Cheilosis"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Ptyalism"
+      },
+      {
+        "id": 2,
+        "question": "The root “gloss/o” refers to:",
+        "options": {
+          "A": "Gums",
+          "B": "Tongue",
+          "C": "Lips",
+          "D": "Throat"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Tongue"
+      },
+      {
+        "id": 3,
+        "question": "Which term refers to the visual examination of the duodenum?",
+        "options": {
+          "A": "Duodenoplasty",
+          "B": "Duodenitis",
+          "C": "Duodenoscopy",
+          "D": "Duodenocele"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Duodenoscopy"
+      },
+      {
+        "id": 4,
+        "question": "What does \"Jejunorrhaphy\" mean?",
+        "options": {
+          "A": "Inflammation of the jejunum",
+          "B": "Cutting the jejunum",
+          "C": "Suturing of the jejunum",
+          "D": "Removal of jejunum"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Suturing of the jejunum"
+      },
+      {
+        "id": 5,
+        "question": "Which of the following means \"excessive vomiting\"?",
+        "options": {
+          "A": "Anorexia",
+          "B": "Hyperemesis",
+          "C": "Dysphagia",
+          "D": "Hematemesis"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Hyperemesis"
+      },
+      {
+        "id": 6,
+        "question": "The suffix \"-phagia\" refers to:",
+        "options": {
+          "A": "Speech",
+          "B": "Swallowing",
+          "C": "Vomiting",
+          "D": "Digestion"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Swallowing"
+      },
+      {
+        "id": 7,
+        "question": "\"Sialorrhea\" means:",
+        "options": {
+          "A": "Salivary gland tumor",
+          "B": "Lack of saliva",
+          "C": "Excessive saliva flow",
+          "D": "Difficulty in chewing"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Excessive saliva flow"
+      },
+      {
+        "id": 8,
+        "question": "The term “cholelith” refers to:",
+        "options": {
+          "A": "Bile infection",
+          "B": "Gallstone",
+          "C": "Bile duct inflammation",
+          "D": "Gallbladder surgery"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Gallstone"
+      },
+      {
+        "id": 9,
+        "question": "Which structure connects the stomach to the small intestine?",
+        "options": {
+          "A": "Cecum",
+          "B": "Pylorus",
+          "C": "Duodenum",
+          "D": "Colon"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Pylorus"
+      },
+      {
+        "id": 10,
+        "question": "The combining form \"proct/o\" refers to:",
+        "options": {
+          "A": "Colon",
+          "B": "Rectum and Anus",
+          "C": "Sigmoid colon",
+          "D": "Esophagus"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Rectum and Anus"
+      },
+      {
+        "id": 11,
+        "question": "What is \"melena\"?",
+        "options": {
+          "A": "Passage of mucus",
+          "B": "Black, tarry stools due to blood",
+          "C": "Pale stool",
+          "D": "Floating fat in stool"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Black, tarry stools due to blood"
+      },
+      {
+        "id": 12,
+        "question": "What condition involves backward flow of stomach contents into the esophagus?",
+        "options": {
+          "A": "Regurgitation",
+          "B": "GERD",
+          "C": "Steatorrhea",
+          "D": "Hematemesis"
+        },
+        "correct_letter": "B",
+        "correct_answer": "GERD"
+      },
+      {
+        "id": 13,
+        "question": "“Cachexia” refers to:",
+        "options": {
+          "A": "Excess appetite",
+          "B": "Vomiting blood",
+          "C": "Extreme malnutrition and wasting",
+          "D": "Fluid in the abdomen"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Extreme malnutrition and wasting"
+      },
+      {
+        "id": 14,
+        "question": "“Steatorrhea” indicates:",
+        "options": {
+          "A": "Excessive mucus in stool",
+          "B": "Fatty stools",
+          "C": "Bloody vomiting",
+          "D": "Constipation"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Fatty stools"
+      },
+      {
+        "id": 15,
+        "question": "The root “neur/o” refers to:",
+        "options": {
+          "A": "Brain",
+          "B": "Nerve",
+          "C": "Spinal cord",
+          "D": "Gray matter"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Nerve"
+      },
+      {
+        "id": 16,
+        "question": "“Meningocele” refers to:",
+        "options": {
+          "A": "Hernia of the meninges",
+          "B": "Inflammation of the spinal cord",
+          "C": "Brain tumor",
+          "D": "Paralysis"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Hernia of the meninges"
+      },
+      {
+        "id": 17,
+        "question": "Which of the following means “inflammation of the brain”?",
+        "options": {
+          "A": "Neuritis",
+          "B": "Meningitis",
+          "C": "Encephalitis",
+          "D": "Myelitis"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Encephalitis"
+      },
+      {
+        "id": 18,
+        "question": "The root \"thalam/o\" refers to:",
+        "options": {
+          "A": "Cerebellum",
+          "B": "Thalamus",
+          "C": "Ventricles",
+          "D": "Brainstem"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Thalamus"
+      },
+      {
+        "id": 19,
+        "question": "“Radiculopathy” refers to:",
+        "options": {
+          "A": "Disease of the cerebral cortex",
+          "B": "Disorder of the meninges",
+          "C": "Disease of spinal nerve roots",
+          "D": "Mental disorder"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Disease of spinal nerve roots"
+      },
+      {
+        "id": 20,
+        "question": "The suffix “-plegia” means:",
+        "options": {
+          "A": "Pain",
+          "B": "Paralysis",
+          "C": "Inflammation",
+          "D": "Weakness"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Paralysis"
+      },
+      {
+        "id": 21,
+        "question": "Which term means “partial paralysis”?",
+        "options": {
+          "A": "Hemiplegia",
+          "B": "Tetraplegia",
+          "C": "Paresis",
+          "D": "Hemiparesis"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Hemiparesis"
+      },
+      {
+        "id": 22,
+        "question": "What does the suffix “-lexia” refer to?",
+        "options": {
+          "A": "Seizure",
+          "B": "Reading",
+          "C": "Speech",
+          "D": "Movement"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Reading"
+      },
+      {
+        "id": 23,
+        "question": "Which term means “slowness in reading”?",
+        "options": {
+          "A": "Dyslexia",
+          "B": "Bradylexia",
+          "C": "Aphasia",
+          "D": "Paraphasia"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Bradylexia"
+      },
+      {
+        "id": 24,
+        "question": "\"Anencephaly\" means:",
+        "options": {
+          "A": "Absence of cerebellum",
+          "B": "Absence of brain",
+          "C": "Brain tumor",
+          "D": "No skull"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Absence of brain"
+      },
+      {
+        "id": 25,
+        "question": "\"Narcolepsy\" refers to:",
+        "options": {
+          "A": "Chronic insomnia",
+          "B": "Uncontrollable sleep episodes",
+          "C": "Paralysis of limbs",
+          "D": "Fear of sleep"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Uncontrollable sleep episodes"
+      },
+      {
+        "id": 26,
+        "question": "The combining form “psych/o” relates to:",
+        "options": {
+          "A": "Speech",
+          "B": "Mind",
+          "C": "Nerve",
+          "D": "Brain"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Mind"
+      },
+      {
+        "id": 27,
+        "question": "Which cranial nerve controls facial expressions?",
+        "options": {
+          "A": "Trigeminal (V)",
+          "B": "Facial (VII)",
+          "C": "Optic (II)",
+          "D": "Glossopharyngeal (IX)"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Facial (VII)"
+      },
+      {
+        "id": 28,
+        "question": "The nerve that carries smell sensation is:",
+        "options": {
+          "A": "Optic",
+          "B": "Olfactory",
+          "C": "Trigeminal",
+          "D": "Vagus"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Olfactory"
+      },
+      {
+        "id": 29,
+        "question": "\"Medullary\" means related to:",
+        "options": {
+          "A": "Cortex",
+          "B": "Spinal cord or medulla",
+          "C": "Brainstem only",
+          "D": "Pia mater"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Spinal cord or medulla"
+      },
+      {
+        "id": 30,
+        "question": "A sudden burst of electrical brain activity is called:",
+        "options": {
+          "A": "Tremor",
+          "B": "Convulsion",
+          "C": "Seizure",
+          "D": "Spasm"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Seizure"
+      },
+      {
+        "id": 31,
+        "question": "The junction between two neurons is called:",
+        "options": {
+          "A": "Nucleus",
+          "B": "Synapse",
+          "C": "Dendrite",
+          "D": "Axon"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Synapse"
+      },
+      {
+        "id": 32,
+        "question": "Myelinated nerve tissue appears:",
+        "options": {
+          "A": "Gray",
+          "B": "Yellow",
+          "C": "White",
+          "D": "Pink"
+        },
+        "correct_letter": "C",
+        "correct_answer": "White"
+      },
+      {
+        "id": 33,
+        "question": "The term “dementia” means:",
+        "options": {
+          "A": "Temporary confusion",
+          "B": "Permanent intellectual decline",
+          "C": "Sleep disorder",
+          "D": "Paralysis of limbs"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Permanent intellectual decline"
+      },
+      {
+        "id": 34,
+        "question": "Which of these is a mental disorder characterized by pleasure loss?",
+        "options": {
+          "A": "Avolition",
+          "B": "Anosognosia",
+          "C": "Anhedonia",
+          "D": "Catatonia"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Anhedonia"
+      },
+      {
+        "id": 35,
+        "question": "What condition is the fear of open or crowded places?",
+        "options": {
+          "A": "Claustrophobia",
+          "B": "Agoraphobia",
+          "C": "Social phobia",
+          "D": "Echopraxia"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Agoraphobia"
+      },
+      {
+        "id": 36,
+        "question": "Echopraxia is:",
+        "options": {
+          "A": "Sleep walking",
+          "B": "Movement repetition",
+          "C": "Memory loss",
+          "D": "Sudden laughter"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Movement repetition"
+      },
+      {
+        "id": 37,
+        "question": "Apraxia is the inability to:",
+        "options": {
+          "A": "Speak",
+          "B": "Sleep",
+          "C": "Read",
+          "D": "Perform learned movements"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Perform learned movements"
+      },
+      {
+        "id": 38,
+        "question": "Which cranial nerve controls the tongue movement?",
+        "options": {
+          "A": "Vagus",
+          "B": "Glossopharyngeal",
+          "C": "Hypoglossal",
+          "D": "Facial"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Hypoglossal"
+      },
+      {
+        "id": 39,
+        "question": "Which nerve carries impulses for equilibrium and hearing?",
+        "options": {
+          "A": "Trigeminal",
+          "B": "Vestibulocochlear",
+          "C": "Vagus",
+          "D": "Abducens"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Vestibulocochlear"
+      },
+      {
+        "id": 40,
+        "question": "What type of neuron sends signals to the CNS?",
+        "options": {
+          "A": "Motor neuron",
+          "B": "Afferent neuron",
+          "C": "Interneuron",
+          "D": "Efferent neuron"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Afferent neuron"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "المصطلحات الطبية للجهاز العصبي",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which part of the nervous system consists of the brain and spinal cord?",
+        "options": {
+          "A": "PNS",
+          "B": "CNS",
+          "C": "ANS",
+          "D": "SNS"
+        },
+        "correct_letter": "B",
+        "correct_answer": "CNS"
+      },
+      {
+        "id": 2,
+        "question": "What type of neuron carries impulses toward the CNS?",
+        "options": {
+          "A": "Motor neuron",
+          "B": "Interneuron",
+          "C": "Afferent neuron",
+          "D": "Efferent neuron"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Afferent neuron"
+      },
+      {
+        "id": 3,
+        "question": "The basic functional unit of the nervous system is the:",
+        "options": {
+          "A": "Axon",
+          "B": "Synapse",
+          "C": "Neuron",
+          "D": "Dendrite"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Neuron"
+      },
+      {
+        "id": 4,
+        "question": "Which type of nervous tissue is unmyelinated?",
+        "options": {
+          "A": "White matter",
+          "B": "Axons",
+          "C": "Gray matter",
+          "D": "Neuroglia"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Gray matter"
+      },
+      {
+        "id": 5,
+        "question": "What is the role of the myelin sheath?",
+        "options": {
+          "A": "Absorbs nutrients",
+          "B": "Conducts impulses slowly",
+          "C": "Protects and speeds up nerve impulses",
+          "D": "Regenerates neurons"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Protects and speeds up nerve impulses"
+      },
+      {
+        "id": 6,
+        "question": "Neuroglia are responsible for:",
+        "options": {
+          "A": "Conducting impulses",
+          "B": "Generating electricity",
+          "C": "Supporting neurons",
+          "D": "Secreting neurotransmitters"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Supporting neurons"
+      },
+      {
+        "id": 7,
+        "question": "What is the junction between two neurons called?",
+        "options": {
+          "A": "Soma",
+          "B": "Synapse",
+          "C": "Axon",
+          "D": "Ganglion"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Synapse"
+      },
+      {
+        "id": 8,
+        "question": "Which brain part is responsible for reasoning and memory?",
+        "options": {
+          "A": "Brainstem",
+          "B": "Cerebellum",
+          "C": "Cerebral cortex",
+          "D": "Medulla"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Cerebral cortex"
+      },
+      {
+        "id": 9,
+        "question": "Which layer of meninges is the most delicate and closest to the brain?",
+        "options": {
+          "A": "Dura mater",
+          "B": "Arachnoid mater",
+          "C": "Pia mater",
+          "D": "Cortex"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Pia mater"
+      },
+      {
+        "id": 10,
+        "question": "Cerebrospinal fluid is produced in the:",
+        "options": {
+          "A": "Arachnoid layer",
+          "B": "Pia mater",
+          "C": "Ventricles",
+          "D": "Spinal cord"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Ventricles"
+      },
+      {
+        "id": 11,
+        "question": "Which cranial nerve controls facial expression?",
+        "options": {
+          "A": "V",
+          "B": "VII",
+          "C": "IX",
+          "D": "X"
+        },
+        "correct_letter": "B",
+        "correct_answer": "VII"
+      },
+      {
+        "id": 12,
+        "question": "The nerve responsible for equilibrium and hearing is:",
+        "options": {
+          "A": "Trigeminal",
+          "B": "Vestibulocochlear",
+          "C": "Facial",
+          "D": "Hypoglossal"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Vestibulocochlear"
+      },
+      {
+        "id": 13,
+        "question": "What nerve controls the tongue?",
+        "options": {
+          "A": "Facial",
+          "B": "Hypoglossal",
+          "C": "Trigeminal",
+          "D": "Glossopharyngeal"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Hypoglossal"
+      },
+      {
+        "id": 14,
+        "question": "How many spinal nerve pairs are there in total?",
+        "options": {
+          "A": "31",
+          "B": "32",
+          "C": "30",
+          "D": "28"
+        },
+        "correct_letter": "A",
+        "correct_answer": "31"
+      },
+      {
+        "id": 15,
+        "question": "The term “radiculopathy” refers to a disorder of:",
+        "options": {
+          "A": "Brainstem",
+          "B": "Spinal nerve roots",
+          "C": "Meninges",
+          "D": "Cranial nerves"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Spinal nerve roots"
+      },
+      {
+        "id": 16,
+        "question": "“Anencephaly” means:",
+        "options": {
+          "A": "Brain enlargement",
+          "B": "Lack of skull",
+          "C": "Absence of brain",
+          "D": "Brain hernia"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Absence of brain"
+      },
+      {
+        "id": 17,
+        "question": "What suffix means paralysis?",
+        "options": {
+          "A": "-lexia",
+          "B": "-plegia",
+          "C": "-paresis",
+          "D": "-phasia"
+        },
+        "correct_letter": "B",
+        "correct_answer": "-plegia"
+      },
+      {
+        "id": 18,
+        "question": "Partial paralysis of one side is called:",
+        "options": {
+          "A": "Hemiplegia",
+          "B": "Hemiparesis",
+          "C": "Tetraplegia",
+          "D": "Paraplegia"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Hemiparesis"
+      },
+      {
+        "id": 19,
+        "question": "What suffix means seizure?",
+        "options": {
+          "A": "-mania",
+          "B": "-lexia",
+          "C": "-lalia",
+          "D": "-lepsy"
+        },
+        "correct_letter": "D",
+        "correct_answer": "-lepsy"
+      },
+      {
+        "id": 20,
+        "question": "“Narcolepsy” refers to:",
+        "options": {
+          "A": "Sleep deprivation",
+          "B": "Chronic tiredness",
+          "C": "Sudden sleep attacks",
+          "D": "Total insomnia"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Sudden sleep attacks"
+      },
+      {
+        "id": 21,
+        "question": "Which root refers to the spinal cord?",
+        "options": {
+          "A": "neur/o",
+          "B": "myel/o",
+          "C": "mening/o",
+          "D": "encephal/o"
+        },
+        "correct_letter": "B",
+        "correct_answer": "myel/o"
+      },
+      {
+        "id": 22,
+        "question": "“Hematomyelia” refers to:",
+        "options": {
+          "A": "Spinal cord tumor",
+          "B": "Inflammation of brain",
+          "C": "Bleeding in spinal cord",
+          "D": "Brain fluid blockage"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Bleeding in spinal cord"
+      },
+      {
+        "id": 23,
+        "question": "Root “encephal/o” means:",
+        "options": {
+          "A": "Brain",
+          "B": "Skull",
+          "C": "Spinal cord",
+          "D": "Nerves"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Brain"
+      },
+      {
+        "id": 24,
+        "question": "Root “thalam/o” means:",
+        "options": {
+          "A": "Cerebrum",
+          "B": "Thalamus",
+          "C": "Midbrain",
+          "D": "Pons"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Thalamus"
+      },
+      {
+        "id": 25,
+        "question": "A convulsion is defined as:",
+        "options": {
+          "A": "Mild headache",
+          "B": "Fainting episode",
+          "C": "Violent muscle contractions",
+          "D": "Sudden vision loss"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Violent muscle contractions"
+      },
+      {
+        "id": 26,
+        "question": "Which term means inflammation of the meninges?",
+        "options": {
+          "A": "Myelitis",
+          "B": "Meningitis",
+          "C": "Neuritis",
+          "D": "Encephalitis"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Meningitis"
+      },
+      {
+        "id": 27,
+        "question": "What is the function of dendrites?",
+        "options": {
+          "A": "Transmit impulses away",
+          "B": "Conduct impulses to the cell body",
+          "C": "Generate neurotransmitters",
+          "D": "Store information"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Conduct impulses to the cell body"
+      },
+      {
+        "id": 28,
+        "question": "Which of the following is a support cell in the nervous system?",
+        "options": {
+          "A": "Neuron",
+          "B": "Axon",
+          "C": "Neuroglia",
+          "D": "Synapse"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Neuroglia"
+      },
+      {
+        "id": 29,
+        "question": "A “ganglioma” is:",
+        "options": {
+          "A": "A nerve infection",
+          "B": "A tumor of the ganglion",
+          "C": "Spinal lesion",
+          "D": "A brain cyst"
+        },
+        "correct_letter": "B",
+        "correct_answer": "A tumor of the ganglion"
+      },
+      {
+        "id": 30,
+        "question": "“Psychogenic” means:",
+        "options": {
+          "A": "Produced by the brain",
+          "B": "Caused by infection",
+          "C": "Originating in the mind",
+          "D": "Originating in muscles"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Originating in the mind"
+      },
+      {
+        "id": 31,
+        "question": "Which suffix refers to reading disorders?",
+        "options": {
+          "A": "-lalia",
+          "B": "-lexia",
+          "C": "-phobia",
+          "D": "-mania"
+        },
+        "correct_letter": "B",
+        "correct_answer": "-lexia"
+      },
+      {
+        "id": 32,
+        "question": "What does “bradylexia” mean?",
+        "options": {
+          "A": "Inability to write",
+          "B": "Slow reading",
+          "C": "Excessive reading",
+          "D": "Reading without comprehension"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Slow reading"
+      },
+      {
+        "id": 33,
+        "question": "“Dementia” is best defined as:",
+        "options": {
+          "A": "Acute memory loss",
+          "B": "Permanent intellectual decline",
+          "C": "Temporary confusion",
+          "D": "Depression"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Permanent intellectual decline"
+      },
+      {
+        "id": 34,
+        "question": "“Apraxia” refers to:",
+        "options": {
+          "A": "Muscle pain",
+          "B": "Loss of speech",
+          "C": "Inability to perform learned movements",
+          "D": "Insomnia"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Inability to perform learned movements"
+      },
+      {
+        "id": 35,
+        "question": "“Echopraxia” means:",
+        "options": {
+          "A": "Imitation of movement",
+          "B": "Repeating speech",
+          "C": "Tremors",
+          "D": "Muscle rigidity"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Imitation of movement"
+      },
+      {
+        "id": 36,
+        "question": "“Avolition” is:",
+        "options": {
+          "A": "Memory loss",
+          "B": "Lack of motivation",
+          "C": "Excessive movement",
+          "D": "Hallucination"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Lack of motivation"
+      },
+      {
+        "id": 37,
+        "question": "Which disorder is described by lack of awareness of one’s illness?",
+        "options": {
+          "A": "Anhedonia",
+          "B": "Alexithymia",
+          "C": "Avolition",
+          "D": "Anosognosia"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Anosognosia"
+      },
+      {
+        "id": 38,
+        "question": "“Anhedonia” means:",
+        "options": {
+          "A": "Lack of emotion",
+          "B": "Loss of sensation",
+          "C": "Inability to feel pleasure",
+          "D": "Delusional thinking"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Inability to feel pleasure"
+      },
+      {
+        "id": 39,
+        "question": "What term describes compulsive use of obscene words?",
+        "options": {
+          "A": "Echolalia",
+          "B": "Coprolalia",
+          "C": "Dyslexia",
+          "D": "Dysphasia"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Coprolalia"
+      },
+      {
+        "id": 40,
+        "question": "Which of these is a state of sleepiness?",
+        "options": {
+          "A": "Somnolence",
+          "B": "Narcosis",
+          "C": "Aphasia",
+          "D": "Mania"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Somnolence"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "المصطلحات الطبية للجهاز البولي",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the primary function of the urinary system?",
+        "options": {
+          "A": "Digestion",
+          "B": "Hormone production",
+          "C": "Waste elimination",
+          "D": "Oxygen transport"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Waste elimination"
+      },
+      {
+        "id": 2,
+        "question": "Which structure carries urine from the kidneys to the bladder?",
+        "options": {
+          "A": "Urethra",
+          "B": "Nephron",
+          "C": "Ureter",
+          "D": "Renal pelvis"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Ureter"
+      },
+      {
+        "id": 3,
+        "question": "What part of the kidney is the functional unit responsible for filtration?",
+        "options": {
+          "A": "Glomerulus",
+          "B": "Nephron",
+          "C": "Renal pelvis",
+          "D": "Cortex"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Nephron"
+      },
+      {
+        "id": 4,
+        "question": "The outer layer of the kidney is called the:",
+        "options": {
+          "A": "Renal pelvis",
+          "B": "Renal medulla",
+          "C": "Renal cortex",
+          "D": "Calyx"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Renal cortex"
+      },
+      {
+        "id": 5,
+        "question": "The expanded upper end of the ureter is called:",
+        "options": {
+          "A": "Glomerulus",
+          "B": "Renal calyx",
+          "C": "Renal cortex",
+          "D": "Renal pelvis"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Renal pelvis"
+      },
+      {
+        "id": 6,
+        "question": "What is the cluster of capillaries within the nephron called?",
+        "options": {
+          "A": "Tubule",
+          "B": "Cortex",
+          "C": "Glomerulus",
+          "D": "Pelvis"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Glomerulus"
+      },
+      {
+        "id": 7,
+        "question": "The suffix “-uria” is associated with:",
+        "options": {
+          "A": "Urinary organs",
+          "B": "Kidney inflammation",
+          "C": "Urine condition",
+          "D": "Stone formation"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Urine condition"
+      },
+      {
+        "id": 8,
+        "question": "Inflammation of the renal pelvis is called:",
+        "options": {
+          "A": "Nephritis",
+          "B": "Pyelitis",
+          "C": "Cystitis",
+          "D": "Urethritis"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Pyelitis"
+      },
+      {
+        "id": 9,
+        "question": "A condition of blood in the urine is:",
+        "options": {
+          "A": "Anuria",
+          "B": "Oliguria",
+          "C": "Hematuria",
+          "D": "Dysuria"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Hematuria"
+      },
+      {
+        "id": 10,
+        "question": "Term for decreased urination:",
+        "options": {
+          "A": "Anuria",
+          "B": "Polyuria",
+          "C": "Nocturia",
+          "D": "Oliguria"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Oliguria"
+      },
+      {
+        "id": 11,
+        "question": "What does \"glycosuria\" mean?",
+        "options": {
+          "A": "Sugar in the urine",
+          "B": "Protein in the urine",
+          "C": "No urine output",
+          "D": "Painful urination"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Sugar in the urine"
+      },
+      {
+        "id": 12,
+        "question": "What term describes the instrument that measures urine?",
+        "options": {
+          "A": "Urinoscope",
+          "B": "Urometer",
+          "C": "Urinometer",
+          "D": "Urologist"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Urinometer"
+      },
+      {
+        "id": 13,
+        "question": "Urethrostenosis refers to:",
+        "options": {
+          "A": "Inflammation of ureter",
+          "B": "Narrowing of urethra",
+          "C": "Bladder stones",
+          "D": "Urine leakage"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Narrowing of urethra"
+      },
+      {
+        "id": 14,
+        "question": "What condition is defined by protein in the urine?",
+        "options": {
+          "A": "Uremia",
+          "B": "Proteinuria",
+          "C": "Dysuria",
+          "D": "Nephritis"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Proteinuria"
+      },
+      {
+        "id": 15,
+        "question": "Pyelogram is a diagnostic test of:",
+        "options": {
+          "A": "Urethra",
+          "B": "Bladder",
+          "C": "Renal pelvis",
+          "D": "Glomerulus"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Renal pelvis"
+      },
+      {
+        "id": 16,
+        "question": "Surgical removal of the kidney is called:",
+        "options": {
+          "A": "Nephrectomy",
+          "B": "Pyelotomy",
+          "C": "Cystectomy",
+          "D": "Dialysis"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Nephrectomy"
+      },
+      {
+        "id": 17,
+        "question": "Cystitis means inflammation of:",
+        "options": {
+          "A": "Ureter",
+          "B": "Urethra",
+          "C": "Bladder",
+          "D": "Kidney"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Bladder"
+      },
+      {
+        "id": 18,
+        "question": "A bladder stone is called:",
+        "options": {
+          "A": "Nephrolith",
+          "B": "Ureterolith",
+          "C": "Cystolith",
+          "D": "Caliculus"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Cystolith"
+      },
+      {
+        "id": 19,
+        "question": "Enuresis is most commonly associated with:",
+        "options": {
+          "A": "Adults with diabetes",
+          "B": "Children with incontinence",
+          "C": "Elderly with retention",
+          "D": "Athletes post-exercise"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Children with incontinence"
+      },
+      {
+        "id": 20,
+        "question": "What is dialysis used for?",
+        "options": {
+          "A": "Treating UTI",
+          "B": "Flushing the bladder",
+          "C": "Replacing kidney function",
+          "D": "Enhancing urine flow"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Replacing kidney function"
+      },
+      {
+        "id": 21,
+        "question": "What is the meaning of \"cystostomy\"?",
+        "options": {
+          "A": "Removal of bladder",
+          "B": "Incision into bladder",
+          "C": "Creating an opening in bladder",
+          "D": "Repairing bladder wall"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Creating an opening in bladder"
+      },
+      {
+        "id": 22,
+        "question": "Diuresis is defined as:",
+        "options": {
+          "A": "Suppression of urine",
+          "B": "Pain during urination",
+          "C": "Increased urine output",
+          "D": "Urinary retention"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Increased urine output"
+      },
+      {
+        "id": 23,
+        "question": "A diuretic is a drug that:",
+        "options": {
+          "A": "Slows urine flow",
+          "B": "Prevents kidney stones",
+          "C": "Promotes urination",
+          "D": "Blocks reabsorption"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Promotes urination"
+      },
+      {
+        "id": 24,
+        "question": "The term \"nephropathy\" refers to:",
+        "options": {
+          "A": "Urinary infection",
+          "B": "Kidney disease",
+          "C": "Bladder inflammation",
+          "D": "Painful urination"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Kidney disease"
+      },
+      {
+        "id": 25,
+        "question": "What does \"anuria\" mean?",
+        "options": {
+          "A": "No urine production",
+          "B": "Frequent urination",
+          "C": "Painful urination",
+          "D": "Dark urine"
+        },
+        "correct_letter": "A",
+        "correct_answer": "No urine production"
+      },
+      {
+        "id": 26,
+        "question": "What structure stores urine before excretion?",
+        "options": {
+          "A": "Kidney",
+          "B": "Ureter",
+          "C": "Urethra",
+          "D": "Urinary bladder"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Urinary bladder"
+      },
+      {
+        "id": 27,
+        "question": "\"Cystalgia\" refers to:",
+        "options": {
+          "A": "Bladder infection",
+          "B": "Bladder pain",
+          "C": "Urine odor",
+          "D": "Urinary incontinence"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Bladder pain"
+      },
+      {
+        "id": 28,
+        "question": "Which suffix indicates a surgical incision?",
+        "options": {
+          "A": "-stomy",
+          "B": "-ectomy",
+          "C": "-otomy",
+          "D": "-scopy"
+        },
+        "correct_letter": "C",
+        "correct_answer": "-otomy"
+      },
+      {
+        "id": 29,
+        "question": "Which combining form refers to the kidney?",
+        "options": {
+          "A": "Nephr/o",
+          "B": "Cyst/o",
+          "C": "Urethr/o",
+          "D": "Pyel/o"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Nephr/o"
+      },
+      {
+        "id": 30,
+        "question": "Which term means a stone in the ureter?",
+        "options": {
+          "A": "Nephrolith",
+          "B": "Ureterolith",
+          "C": "Cystolith",
+          "D": "Urethrolith"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Ureterolith"
+      },
+      {
+        "id": 31,
+        "question": "Which word root means bladder?",
+        "options": {
+          "A": "Pyel-",
+          "B": "Ren-",
+          "C": "Cyst-",
+          "D": "Urethr-"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Cyst-"
+      },
+      {
+        "id": 32,
+        "question": "A test that takes an image of the bladder is called:",
+        "options": {
+          "A": "Cystoscopy",
+          "B": "Cystogram",
+          "C": "Pyelogram",
+          "D": "Urinometer"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Cystogram"
+      },
+      {
+        "id": 33,
+        "question": "Ureterectasis means:",
+        "options": {
+          "A": "Narrowing of ureter",
+          "B": "Dilation of ureter",
+          "C": "Removal of ureter",
+          "D": "Tumor of ureter"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Dilation of ureter"
+      },
+      {
+        "id": 34,
+        "question": "What is the term for a urinary tract specialist?",
+        "options": {
+          "A": "Nephrologist",
+          "B": "Urologist",
+          "C": "Diureticist",
+          "D": "Hematologist"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Urologist"
+      },
+      {
+        "id": 35,
+        "question": "Which of the following indicates inflammation of kidney glomeruli?",
+        "options": {
+          "A": "Nephrolithiasis",
+          "B": "Glomerulonephritis",
+          "C": "Pyelitis",
+          "D": "Ureteritis"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Glomerulonephritis"
+      },
+      {
+        "id": 36,
+        "question": "What term means the creation of an artificial opening into the bladder?",
+        "options": {
+          "A": "Cystostomy",
+          "B": "Cystotomy",
+          "C": "Cystoplasty",
+          "D": "Cystogram"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Cystostomy"
+      },
+      {
+        "id": 37,
+        "question": "Which term means inflammation of the urethra?",
+        "options": {
+          "A": "Nephritis",
+          "B": "Pyelitis",
+          "C": "Cystitis",
+          "D": "Urethritis"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Urethritis"
+      },
+      {
+        "id": 38,
+        "question": "What is \"dysuria\"?",
+        "options": {
+          "A": "Difficulty urinating",
+          "B": "Excessive urination",
+          "C": "No urine output",
+          "D": "Frequent urination at night"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Difficulty urinating"
+      },
+      {
+        "id": 39,
+        "question": "Term for a condition of waste accumulation in the blood due to renal failure:",
+        "options": {
+          "A": "Proteinuria",
+          "B": "Hematuria",
+          "C": "Uremia",
+          "D": "Glycosuria"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Uremia"
+      },
+      {
+        "id": 40,
+        "question": "A calicectasis is:",
+        "options": {
+          "A": "Blockage of calyx",
+          "B": "Dilation of renal calyx",
+          "C": "Inflammation of calyx",
+          "D": "Calyx stone"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Dilation of renal calyx"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "المصطلحات الطبية للجهاز القلبي الوعائي",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the main function of the cardiovascular system?",
+        "options": {
+          "A": "Hormone production",
+          "B": "Gas exchange",
+          "C": "Waste digestion",
+          "D": "Distribution of blood and nutrients"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Distribution of blood and nutrients"
+      },
+      {
+        "id": 2,
+        "question": "Which of the following is the muscular organ that pumps blood?",
+        "options": {
+          "A": "Aorta",
+          "B": "Atrium",
+          "C": "Heart",
+          "D": "Vein"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Heart"
+      },
+      {
+        "id": 3,
+        "question": "What term refers to a slow heart rate?",
+        "options": {
+          "A": "Tachycardia",
+          "B": "Bradycardia",
+          "C": "Cardiorrhexis",
+          "D": "Dysrhythmia"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Bradycardia"
+      },
+      {
+        "id": 4,
+        "question": "Which of the following means a ruptured heart?",
+        "options": {
+          "A": "Cardiorrhexis",
+          "B": "Cardiomegaly",
+          "C": "Cardiogram",
+          "D": "Myocardium"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Cardiorrhexis"
+      },
+      {
+        "id": 5,
+        "question": "What term is used for between the atria?",
+        "options": {
+          "A": "Interventricular",
+          "B": "Intraarterial",
+          "C": "Interatrial",
+          "D": "Atrioseptal"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Interatrial"
+      },
+      {
+        "id": 6,
+        "question": "What does “valvoplasty” mean?",
+        "options": {
+          "A": "Surgical repair of a valve",
+          "B": "Valve inflammation",
+          "C": "Valve destruction",
+          "D": "Valve transplant"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Surgical repair of a valve"
+      },
+      {
+        "id": 7,
+        "question": "Which structure is the largest artery in the body?",
+        "options": {
+          "A": "Pulmonary artery",
+          "B": "Carotid artery",
+          "C": "Femoral artery",
+          "D": "Aorta"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Aorta"
+      },
+      {
+        "id": 8,
+        "question": "What is the meaning of “arteriosclerosis”?",
+        "options": {
+          "A": "Narrowing of arteries",
+          "B": "Inflammation of arteries",
+          "C": "Hardening of arteries",
+          "D": "Bleeding from arteries"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Hardening of arteries"
+      },
+      {
+        "id": 9,
+        "question": "What is a “venogram”?",
+        "options": {
+          "A": "Record of arterial pressure",
+          "B": "Record of veins",
+          "C": "Blood test",
+          "D": "Vessel removal"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Record of veins"
+      },
+      {
+        "id": 10,
+        "question": "What is the medical term for enlarged, twisted veins?",
+        "options": {
+          "A": "Phlebitis",
+          "B": "Varicosis",
+          "C": "Angiitis",
+          "D": "Thrombosis"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Varicosis"
+      },
+      {
+        "id": 11,
+        "question": "What does “atherosclerosis” refer to?",
+        "options": {
+          "A": "Scarring of heart tissue",
+          "B": "Fat buildup in arteries",
+          "C": "Hardening of veins",
+          "D": "Brain vessel rupture"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Fat buildup in arteries"
+      },
+      {
+        "id": 12,
+        "question": "Which arteries supply blood to the heart muscle itself?",
+        "options": {
+          "A": "Aortic arteries",
+          "B": "Pulmonary arteries",
+          "C": "Coronary arteries",
+          "D": "Radial arteries"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Coronary arteries"
+      },
+      {
+        "id": 13,
+        "question": "What does “angioplasty” mean?",
+        "options": {
+          "A": "Removal of vessel",
+          "B": "Vessel rupture",
+          "C": "Surgical repair of a vessel",
+          "D": "Formation of a new vessel"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Surgical repair of a vessel"
+      },
+      {
+        "id": 14,
+        "question": "What is “vasculitis”?",
+        "options": {
+          "A": "Swelling of veins",
+          "B": "Inflammation of blood vessels",
+          "C": "Clotting of arteries",
+          "D": "Tumor of arteries"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Inflammation of blood vessels"
+      },
+      {
+        "id": 15,
+        "question": "What term means contraction of a blood vessel?",
+        "options": {
+          "A": "Vasospasm",
+          "B": "Vasodilation",
+          "C": "Angiitis",
+          "D": "Vasculopathy"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Vasospasm"
+      },
+      {
+        "id": 16,
+        "question": "“Pericarditis” means inflammation of the:",
+        "options": {
+          "A": "Myocardium",
+          "B": "Heart valves",
+          "C": "Pericardial sac",
+          "D": "Aorta"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Pericardial sac"
+      },
+      {
+        "id": 17,
+        "question": "Which valve is located between the left atrium and left ventricle?",
+        "options": {
+          "A": "Tricuspid",
+          "B": "Pulmonary",
+          "C": "Aortic",
+          "D": "Bicuspid (Mitral)"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Bicuspid (Mitral)"
+      },
+      {
+        "id": 18,
+        "question": "What is the innermost layer of the heart wall called?",
+        "options": {
+          "A": "Epicardium",
+          "B": "Endocardium",
+          "C": "Myocardium",
+          "D": "Pericardium"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Endocardium"
+      },
+      {
+        "id": 19,
+        "question": "Which phase of the heart refers to contraction?",
+        "options": {
+          "A": "Diastole",
+          "B": "Systole",
+          "C": "Pause",
+          "D": "Dilation"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Systole"
+      },
+      {
+        "id": 20,
+        "question": "Abnormal heart rhythm is referred to as:",
+        "options": {
+          "A": "Cardiorrhexis",
+          "B": "Bradycardia",
+          "C": "Dysrhythmia",
+          "D": "Hypotension"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Dysrhythmia"
+      },
+      {
+        "id": 21,
+        "question": "What is the instrument used to measure blood pressure?",
+        "options": {
+          "A": "Angioscope",
+          "B": "Sphygmomanometer",
+          "C": "Cardiograph",
+          "D": "Electrocardiograph"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Sphygmomanometer"
+      },
+      {
+        "id": 22,
+        "question": "What is an ECG used to record?",
+        "options": {
+          "A": "Blood flow",
+          "B": "Heart size",
+          "C": "Heart’s electrical activity",
+          "D": "Oxygen saturation"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Heart’s electrical activity"
+      },
+      {
+        "id": 23,
+        "question": "What is the condition called when blood flows backward through a valve?",
+        "options": {
+          "A": "Dysrhythmia",
+          "B": "Regurgitation",
+          "C": "Stenosis",
+          "D": "Aneurysm"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Regurgitation"
+      },
+      {
+        "id": 24,
+        "question": "What causes myocardial infarction?",
+        "options": {
+          "A": "High blood pressure",
+          "B": "Complete heart block",
+          "C": "Obstruction of coronary artery",
+          "D": "Valve calcification"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Obstruction of coronary artery"
+      },
+      {
+        "id": 25,
+        "question": "Angina pectoris is described as:",
+        "options": {
+          "A": "A type of anemia",
+          "B": "Severe chest pain",
+          "C": "Valve dysfunction",
+          "D": "Abnormal breathing"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Severe chest pain"
+      },
+      {
+        "id": 26,
+        "question": "What is fibrillation?",
+        "options": {
+          "A": "Increased blood flow",
+          "B": "Shivering heart muscle",
+          "C": "Hypertrophy",
+          "D": "High pressure"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Shivering heart muscle"
+      },
+      {
+        "id": 27,
+        "question": "What is the term for inadequate blood supply?",
+        "options": {
+          "A": "Angina",
+          "B": "Embolism",
+          "C": "Ischemia",
+          "D": "Edema"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Ischemia"
+      },
+      {
+        "id": 28,
+        "question": "What term describes a blockage caused by a circulating object?",
+        "options": {
+          "A": "Thrombosis",
+          "B": "Infarction",
+          "C": "Embolism",
+          "D": "Vasculitis"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Embolism"
+      },
+      {
+        "id": 29,
+        "question": "Which suffix indicates a recording (like ECG)?",
+        "options": {
+          "A": "-gram",
+          "B": "-scope",
+          "C": "-meter",
+          "D": "-graphy"
+        },
+        "correct_letter": "A",
+        "correct_answer": "-gram"
+      },
+      {
+        "id": 30,
+        "question": "What term refers to inflammation of a vein?",
+        "options": {
+          "A": "Phlebitis",
+          "B": "Angiitis",
+          "C": "Varicosis",
+          "D": "Arteritis"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Phlebitis"
+      },
+      {
+        "id": 31,
+        "question": "Which valve is found between the right atrium and ventricle?",
+        "options": {
+          "A": "Mitral",
+          "B": "Aortic",
+          "C": "Tricuspid",
+          "D": "Pulmonary"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Tricuspid"
+      },
+      {
+        "id": 32,
+        "question": "What is “tachycardia”?",
+        "options": {
+          "A": "Low blood pressure",
+          "B": "Rapid heart rate",
+          "C": "Valve leakage",
+          "D": "Blood clot"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Rapid heart rate"
+      },
+      {
+        "id": 33,
+        "question": "What does “angiitis” refer to?",
+        "options": {
+          "A": "Inflammation of veins",
+          "B": "Inflammation of blood vessels",
+          "C": "Clot in arteries",
+          "D": "Congenital vessel defect"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Inflammation of blood vessels"
+      },
+      {
+        "id": 34,
+        "question": "What term means heart attack?",
+        "options": {
+          "A": "Angina",
+          "B": "Arrhythmia",
+          "C": "Myocardial infarction",
+          "D": "Cardiomyopathy"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Myocardial infarction"
+      },
+      {
+        "id": 35,
+        "question": "What is echocardiography used for?",
+        "options": {
+          "A": "Recording brain activity",
+          "B": "Ultrasound of heart",
+          "C": "Measuring blood sugar",
+          "D": "Lung scan"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Ultrasound of heart"
+      },
+      {
+        "id": 36,
+        "question": "What prefix means blood?",
+        "options": {
+          "A": "Hema-",
+          "B": "Myo-",
+          "C": "Neuro-",
+          "D": "Cardio-"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Hema-"
+      },
+      {
+        "id": 37,
+        "question": "What condition is due to lack of clotting factors?",
+        "options": {
+          "A": "Anemia",
+          "B": "Leukemia",
+          "C": "Hemophilia",
+          "D": "Erythrocytosis"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Hemophilia"
+      },
+      {
+        "id": 38,
+        "question": "What word means “formation of blood cells”?",
+        "options": {
+          "A": "Hematopoiesis",
+          "B": "Leukocytosis",
+          "C": "Thrombosis",
+          "D": "Ischemia"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Hematopoiesis"
+      },
+      {
+        "id": 39,
+        "question": "What are the red blood cells called?",
+        "options": {
+          "A": "Leukocytes",
+          "B": "Erythrocytes",
+          "C": "Lymphocytes",
+          "D": "Thrombocytes"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Erythrocytes"
+      },
+      {
+        "id": 40,
+        "question": "What is the meaning of “splenomegaly”?",
+        "options": {
+          "A": "Inflammation of lymph",
+          "B": "Enlargement of spleen",
+          "C": "Spleen rupture",
+          "D": "Spleen removal"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Enlargement of spleen"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "المصطلحات الطبية للجهاز العضلي الهيكلي",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What does the term “muscular” mean?",
+        "options": {
+          "A": "Full of strength",
+          "B": "Pertaining to muscle",
+          "C": "Related to bone",
+          "D": "Lacking muscle"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Pertaining to muscle"
+      },
+      {
+        "id": 2,
+        "question": "The medical term “myoma” refers to:",
+        "options": {
+          "A": "Muscle pain",
+          "B": "Muscle tumor",
+          "C": "Muscle loss",
+          "D": "Muscle spasm"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Muscle tumor"
+      },
+      {
+        "id": 3,
+        "question": "What is the meaning of “tenotomy”?",
+        "options": {
+          "A": "Suturing a tendon",
+          "B": "Tendon inflammation",
+          "C": "Incision of a tendon",
+          "D": "Removal of a tendon"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Incision of a tendon"
+      },
+      {
+        "id": 4,
+        "question": "“Tendoplasty” refers to:",
+        "options": {
+          "A": "Plastic surgery on muscle",
+          "B": "Surgical repair of a tendon",
+          "C": "Tendon rupture",
+          "D": "Tendon infection"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Surgical repair of a tendon"
+      },
+      {
+        "id": 5,
+        "question": "The term “tendinitis” means:",
+        "options": {
+          "A": "Inflammation of tendon",
+          "B": "Death of tendon tissue",
+          "C": "Weakening of tendon",
+          "D": "Removal of tendon"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Inflammation of tendon"
+      },
+      {
+        "id": 6,
+        "question": "What are “fibroblasts”?",
+        "options": {
+          "A": "Cells forming blood",
+          "B": "Muscle-forming cells",
+          "C": "Cartilage-forming cells",
+          "D": "Fiber-forming cells"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Fiber-forming cells"
+      },
+      {
+        "id": 7,
+        "question": "What is a “fibroma”?",
+        "options": {
+          "A": "Malignant tumor of fibrous tissue",
+          "B": "Benign tumor of fibrous tissue",
+          "C": "Bone cyst",
+          "D": "Inflammation of fibers"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Benign tumor of fibrous tissue"
+      },
+      {
+        "id": 8,
+        "question": "What is “fibrosarcoma”?",
+        "options": {
+          "A": "Soft muscle tumor",
+          "B": "Bone infection",
+          "C": "Malignant fibrous tissue tumor",
+          "D": "Tendon enlargement"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Malignant fibrous tissue tumor"
+      },
+      {
+        "id": 9,
+        "question": "What does “lumbosacral” refer to?",
+        "options": {
+          "A": "Chest and upper back",
+          "B": "Lower back and sacrum",
+          "C": "Pelvis and leg",
+          "D": "Skull and spine"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Lower back and sacrum"
+      },
+      {
+        "id": 10,
+        "question": "What is “osteoporosis”?",
+        "options": {
+          "A": "Softening of bone",
+          "B": "Hardening of bone",
+          "C": "Porous bone condition",
+          "D": "Bone infection"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Porous bone condition"
+      },
+      {
+        "id": 11,
+        "question": "Which term describes a bone cell that breaks down bone tissue?",
+        "options": {
+          "A": "Osteoblast",
+          "B": "Osteocyte",
+          "C": "Osteoclast",
+          "D": "Chondrocyte"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Osteoclast"
+      },
+      {
+        "id": 12,
+        "question": "What does “chondrocytes” mean?",
+        "options": {
+          "A": "Bone-forming cells",
+          "B": "Cartilage-forming cells",
+          "C": "Joint cells",
+          "D": "Tendon cells"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Cartilage-forming cells"
+      },
+      {
+        "id": 13,
+        "question": "“Craniotomy” is defined as:",
+        "options": {
+          "A": "Removal of the skull",
+          "B": "Incision into the skull",
+          "C": "Repair of the cranium",
+          "D": "Inflammation of the skull"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Incision into the skull"
+      },
+      {
+        "id": 14,
+        "question": "What is “cephalalgia”?",
+        "options": {
+          "A": "Brain damage",
+          "B": "Headache",
+          "C": "Skull fracture",
+          "D": "Dizziness"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Headache"
+      },
+      {
+        "id": 15,
+        "question": "“Cervicitis” refers to:",
+        "options": {
+          "A": "Neck pain",
+          "B": "Inflammation of the cervix",
+          "C": "Inflammation of cervical vertebrae",
+          "D": "Uterus rupture"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Inflammation of the cervix"
+      },
+      {
+        "id": 16,
+        "question": "“Brachialgia” refers to pain in the:",
+        "options": {
+          "A": "Arm",
+          "B": "Leg",
+          "C": "Neck",
+          "D": "Back"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Arm"
+      },
+      {
+        "id": 17,
+        "question": "What does “subcostal” mean?",
+        "options": {
+          "A": "Within the ribs",
+          "B": "Below the ribs",
+          "C": "Between the ribs",
+          "D": "Near the spine"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Below the ribs"
+      },
+      {
+        "id": 18,
+        "question": "“Spondylitis” is:",
+        "options": {
+          "A": "Inflammation of the spine",
+          "B": "Curvature of the spine",
+          "C": "Weakness in the back",
+          "D": "Loss of spinal fluid"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Inflammation of the spine"
+      },
+      {
+        "id": 19,
+        "question": "What does “pelvimetry” measure?",
+        "options": {
+          "A": "Size of foot",
+          "B": "Pelvic dimensions",
+          "C": "Lung capacity",
+          "D": "Rib cage width"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Pelvic dimensions"
+      },
+      {
+        "id": 20,
+        "question": "“Pedograph” refers to:",
+        "options": {
+          "A": "Scan of the knee",
+          "B": "Bone growth test",
+          "C": "Footprint record",
+          "D": "Ankle injury report"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Footprint record"
+      },
+      {
+        "id": 21,
+        "question": "“Dactylomegaly” means:",
+        "options": {
+          "A": "Small fingers",
+          "B": "Abnormal length of arms",
+          "C": "Enlarged fingers or toes",
+          "D": "Infection of the digits"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Enlarged fingers or toes"
+      },
+      {
+        "id": 22,
+        "question": "What is “arthritis”?",
+        "options": {
+          "A": "Muscle disease",
+          "B": "Bone cancer",
+          "C": "Joint inflammation",
+          "D": "Tendon injury"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Joint inflammation"
+      },
+      {
+        "id": 23,
+        "question": "“Ankylosis” refers to:",
+        "options": {
+          "A": "Swollen joints",
+          "B": "Joint stiffness",
+          "C": "Joint tumors",
+          "D": "Joint separation"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Joint stiffness"
+      },
+      {
+        "id": 24,
+        "question": "“Orthopedics” is the branch that deals with:",
+        "options": {
+          "A": "Digestive disorders",
+          "B": "Brain diseases",
+          "C": "Musculoskeletal diseases",
+          "D": "Heart conditions"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Musculoskeletal diseases"
+      },
+      {
+        "id": 25,
+        "question": "“Kyphosis” describes:",
+        "options": {
+          "A": "Forward curvature",
+          "B": "Backward spine curvature",
+          "C": "Humpback posture",
+          "D": "Side-to-side curve"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Humpback posture"
+      },
+      {
+        "id": 26,
+        "question": "“Lordosis” is:",
+        "options": {
+          "A": "Spine fusion",
+          "B": "Inflammation of vertebra",
+          "C": "Swayback posture",
+          "D": "Spine straightening"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Swayback posture"
+      },
+      {
+        "id": 27,
+        "question": "What does “scoliosis” mean?",
+        "options": {
+          "A": "Curved ribs",
+          "B": "Sideward spinal curvature",
+          "C": "Flat spine",
+          "D": "Extra vertebrae"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Sideward spinal curvature"
+      },
+      {
+        "id": 28,
+        "question": "What does the suffix “-blast” mean?",
+        "options": {
+          "A": "Tumor",
+          "B": "Embryonic cell",
+          "C": "Inflammation",
+          "D": "Hardening"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Embryonic cell"
+      },
+      {
+        "id": 29,
+        "question": "“Osteoblast” is a cell that:",
+        "options": {
+          "A": "Destroys bone",
+          "B": "Repairs muscle",
+          "C": "Forms bone",
+          "D": "Produces cartilage"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Forms bone"
+      },
+      {
+        "id": 30,
+        "question": "The suffix “-porosis” means:",
+        "options": {
+          "A": "Bone loss",
+          "B": "Softening",
+          "C": "Porous condition",
+          "D": "Inflammation"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Porous condition"
+      },
+      {
+        "id": 31,
+        "question": "What does “-sarcoma” mean?",
+        "options": {
+          "A": "Benign tumor",
+          "B": "Cartilage growth",
+          "C": "Muscle contraction",
+          "D": "Malignant tumor"
+        },
+        "correct_letter": "D",
+        "correct_answer": "Malignant tumor"
+      },
+      {
+        "id": 32,
+        "question": "“Amelia” refers to:",
+        "options": {
+          "A": "Extra limb",
+          "B": "No limb",
+          "C": "Long limbs",
+          "D": "Swollen limbs"
+        },
+        "correct_letter": "B",
+        "correct_answer": "No limb"
+      },
+      {
+        "id": 33,
+        "question": "“Meromelia” is:",
+        "options": {
+          "A": "Full limb development",
+          "B": "Complete limb removal",
+          "C": "Partial absence of limb",
+          "D": "Fractured limb"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Partial absence of limb"
+      },
+      {
+        "id": 34,
+        "question": "What does “IM” stand for?",
+        "options": {
+          "A": "Intramedullary",
+          "B": "Intramuscular",
+          "C": "Internal movement",
+          "D": "Intermediate muscle"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Intramuscular"
+      },
+      {
+        "id": 35,
+        "question": "“RA” refers to:",
+        "options": {
+          "A": "Rickets Arthritis",
+          "B": "Reactive Arthritis",
+          "C": "Rheumatoid Arthritis",
+          "D": "Radiographic Abnormality"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Rheumatoid Arthritis"
+      },
+      {
+        "id": 36,
+        "question": "“EMG” stands for:",
+        "options": {
+          "A": "Electromagnetic Graph",
+          "B": "Electro-Muscular Graph",
+          "C": "Electromyography",
+          "D": "Electro-Movement Gauge"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Electromyography"
+      },
+      {
+        "id": 37,
+        "question": "What is “hypotonia”?",
+        "options": {
+          "A": "High muscle tone",
+          "B": "Loss of muscle tone",
+          "C": "Muscle swelling",
+          "D": "Joint pain"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Loss of muscle tone"
+      },
+      {
+        "id": 38,
+        "question": "“Muscular dystrophy” is:",
+        "options": {
+          "A": "Sudden muscle pain",
+          "B": "Genetic muscle disease",
+          "C": "Bacterial infection",
+          "D": "Overgrowth of muscle"
+        },
+        "correct_letter": "B",
+        "correct_answer": "Genetic muscle disease"
+      },
+      {
+        "id": 39,
+        "question": "“Rickets” is due to deficiency of:",
+        "options": {
+          "A": "Vitamin D",
+          "B": "Calcium",
+          "C": "Protein",
+          "D": "Vitamin B"
+        },
+        "correct_letter": "A",
+        "correct_answer": "Vitamin D"
+      },
+      {
+        "id": 40,
+        "question": "“Arthrocentesis” is:",
+        "options": {
+          "A": "Injection into bone",
+          "B": "Joint inflammation",
+          "C": "Puncture of joint to remove fluid",
+          "D": "Fracture repair"
+        },
+        "correct_letter": "C",
+        "correct_answer": "Puncture of joint to remove fluid"
+      }
+    ]
+  }
+]

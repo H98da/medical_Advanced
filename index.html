@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اختبار المصطلحات الطبية</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <button id="theme-toggle" class="theme-toggle" title="تبديل الوضع المشرق/الداكن">
+                <i class="fas fa-sun"></i>
+            </button>
+            <button id="home-button" class="home-button hidden" title="العودة للصفحة الرئيسية">
+                <i class="fas fa-home"></i>
+            </button>
+            <div class="profile-box">
+                <div class="name">حيدر حميد</div>
+                <div class="username">@nursing_A_bot</div>
+            </div>
+            <h1>اختبار المصطلحات الطبية المتقدمة</h1>
+            <p>اختر أحد المواضيع التالية للبدء في الاختبار</p>
+        </header>
+
+        <main>
+            <!-- شاشة اختيار الموضوع -->
+            <div id="topic-selection" class="screen active">
+                <div class="topics-grid">
+                    <!-- سيتم إنشاء أزرار المواضيع هنا بواسطة JavaScript -->
+                </div>
+            </div>
+
+            <!-- شاشة الأسئلة -->
+            <div id="quiz-screen" class="screen">
+                <div class="quiz-header">
+                    <h2 id="topic-title"></h2>
+                    <div class="progress-container">
+                        <div class="progress-bar">
+                            <div class="progress-fill"></div>
+                        </div>
+                        <div class="progress-text">السؤال <span id="current-question">1</span> من <span id="total-questions">40</span></div>
+                    </div>
+                </div>
+
+                <div class="question-container">
+                    <h3 id="question-text"></h3>
+                    <div class="options-container">
+                        <!-- سيتم إنشاء خيارات الإجابة هنا بواسطة JavaScript -->
+                    </div>
+                </div>
+
+                <div class="feedback-container hidden">
+                    <div class="feedback correct hidden">
+                        <div class="icon">✓</div>
+                        <p>إجابة صحيحة!</p>
+                    </div>
+                    <div class="feedback incorrect hidden">
+                        <div class="icon">✗</div>
+                        <p>إجابة خاطئة!</p>
+                        <p>الإجابة الصحيحة هي: <span id="correct-answer"></span></p>
+                    </div>
+                </div>
+
+                <div class="navigation-buttons">
+                    <button id="next-btn" class="btn btn-primary" disabled>السؤال التالي</button>
+                </div>
+            </div>
+
+            <!-- شاشة النتائج -->
+            <div id="results-screen" class="screen">
+                <h2>نتائج الاختبار</h2>
+                <div class="results-container">
+                    <div class="score-circle">
+                        <div class="score-number">0%</div>
+                    </div>
+                    <div class="score-details">
+                        <p>الإجابات الصحيحة: <span id="correct-count">0</span> من <span id="total-count">0</span></p>
+                    </div>
+                </div>
+
+                <div class="results-actions">
+                    <button id="retry-all-btn" class="btn btn-primary">إعادة جميع الأسئلة</button>
+                    <button id="retry-wrong-btn" class="btn btn-secondary">إعادة الأسئلة الخاطئة فقط</button>
+                    <button id="back-to-topics-btn" class="btn btn-tertiary">العودة للمواضيع</button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>اختبار المصطلحات الطبية المتقدمة &copy; 2025</p>
+        </footer>
+    </div>
+
+    <script src="static/js/script.js"></script>
+</body>
+</html>
